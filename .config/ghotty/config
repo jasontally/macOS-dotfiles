@@ -1,0 +1,4 @@
+clipboard-read = allow
+clipboard-write = allow
+copy-on-select = clipboard
+shell-integration-features = ssh-env,ssh-terminfo
